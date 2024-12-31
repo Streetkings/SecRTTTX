@@ -1,5 +1,5 @@
 local killSwitch = {
-    active = false,
+    active = true,
     key = "YOUR_SECRET_KEY"
 }
 
